@@ -1,2 +1,3 @@
+import random
 word_list = ["grape", "lychee", "watermelon", "mango", "apple"]
-print(word_list)
+word = create.random(word_list)
